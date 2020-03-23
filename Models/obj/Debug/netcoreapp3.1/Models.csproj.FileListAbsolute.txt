@@ -1,0 +1,10 @@
+E:\cSharpProject\CoreApiDemo\ApiDemo\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\cSharpProject\CoreApiDemo\ApiDemo\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\cSharpProject\CoreApiDemo\ApiDemo\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\cSharpProject\CoreApiDemo\ApiDemo\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+E:\cSharpProject\CoreApiDemo\ApiDemo\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+E:\cSharpProject\CoreApiDemo\ApiDemo\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.json
+E:\cSharpProject\CoreApiDemo\ApiDemo\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.dev.json
+E:\cSharpProject\CoreApiDemo\ApiDemo\Models\bin\Debug\netcoreapp3.1\Models.pdb
+E:\cSharpProject\CoreApiDemo\ApiDemo\Models\obj\Debug\netcoreapp3.1\Models.dll
+E:\cSharpProject\CoreApiDemo\ApiDemo\Models\obj\Debug\netcoreapp3.1\Models.pdb
