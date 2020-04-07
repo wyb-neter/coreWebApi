@@ -1,0 +1,11 @@
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\bin\Debug\netcoreapp3.1\DLL.deps.json
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\bin\Debug\netcoreapp3.1\DLL.dll
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\bin\Debug\netcoreapp3.1\DLL.pdb
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\bin\Debug\netcoreapp3.1\Models.dll
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\bin\Debug\netcoreapp3.1\Models.pdb
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\obj\Debug\netcoreapp3.1\DLL.csprojAssemblyReference.cache
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfoInputs.cache
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfo.cs
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.CopyComplete
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\obj\Debug\netcoreapp3.1\DLL.dll
+E:\cSharpProject\CoreApiDemo\ApiDemo\DLL\obj\Debug\netcoreapp3.1\DLL.pdb
