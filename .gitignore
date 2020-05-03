@@ -5,3 +5,6 @@
 /ApiDemo/obj
 /ApiDemo/bin/Debug/netcoreapp3.1
 /.vs/ApiDemo
+/DLL
+/Models/bin
+/Models/obj
