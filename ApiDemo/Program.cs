@@ -20,6 +20,7 @@ namespace ApiDemo
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    webBuilder.UseUrls("http://*:8001");
                     webBuilder.UseStartup<Startup>();
                 });
     }

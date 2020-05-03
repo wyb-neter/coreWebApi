@@ -22,6 +22,7 @@ namespace ApiDemo
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+
         }
 
         public IConfiguration Configuration { get; }
@@ -38,18 +39,18 @@ namespace ApiDemo
                     Version = "v1.1.0",
                     Title = "ERP WebAPI",
                     Description = "后台框架",
-                    Contact = new OpenApiContact() { Name = "Blank", Email = "1829027193@qq.com", Url = new Uri("https://www.cnblogs.com/AprilBlank/") }
+                    Contact = new OpenApiContact() { Name = "Blank", Email = "963640324@qq.com", Url = new Uri("https://www.cnblogs.com/AprilBlank/") }
                 });
                 // 为 Swagger JSON and UI设置xml文档注释路径
                 var basePath = Path.GetDirectoryName(AppContext.BaseDirectory);//获取应用程序所在目录（绝对，不受工作目录影响，建议采用此方法获取路径）
                 var xmlPath = Path.Combine(basePath, "ApiDemo.xml");
                 options.IncludeXmlComments(xmlPath);
             });
-            services.AddCors(options =>
-            {
-                options.AddPolicy("AllowAllOrigins",
-                    builder => builder.WithOrigins("http://localhost:8080").AllowAnyHeader().AllowAnyMethod().AllowCredentials());
-            });
+            //services.AddCors(options =>
+            //{
+            //    options.AddPolicy("AllowAllOrigins",
+            //        builder => builder.WithOrigins("http://localhost:8080").AllowAnyHeader().AllowAnyMethod().AllowCredentials());
+            //});
             services.AddControllers();
         }
 
@@ -69,7 +70,7 @@ namespace ApiDemo
             });
             app.UseHttpsRedirection();
 
-            app.UseCors("AllowAllOrigins");
+            //app.UseCors("AllowAllOrigins");
 
             app.UseRouting();
 
